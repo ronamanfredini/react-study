@@ -75,5 +75,9 @@ code {
 }
 
 .financial-entries {
+	display: block;
+}
+
+.financial-entry {
 	display: flex;
 }
