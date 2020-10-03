@@ -73,3 +73,7 @@ code {
 .header ul li {
 	color: #05386b;
 }
+
+.financial-entries {
+	display: flex;
+}
